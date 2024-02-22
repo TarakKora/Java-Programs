@@ -1,3 +1,5 @@
+// for every iteration the largest element come to its correct index, largest element comes to last index of element and then next element and so on.........
+
 import java.util.Arrays;
 public class BubbleSort{
     public static void main(String[] args) {
